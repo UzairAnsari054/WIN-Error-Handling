@@ -1,4 +1,4 @@
-package com.example.winerrorhandling.ui.theme
+package com.example.winerrorhandling.app.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
